@@ -38,8 +38,8 @@
     "objectbox": "^0.3.0",
     "proving": "^0.1.0",
     "q": "^1.4.1",
-    "zcl-id": "^0.3.2",
-    "zcl-packet": "https://github.com/kirovilya/zcl-packet",
+    "zcl-id": "https://github.com/itsmepetrov/zcl-id#4dff4974798c7a4f34de671c800f0bb12195acbe",
+    "zcl-packet": "https://github.com/itsmepetrov/zcl-packet#dac3333be4198b306077e9aec55d2656daccbfd7",
     "ziee": "^0.3.0",
     "zive": "^0.2.2",
     "zstack-constants": "^0.2.0"
