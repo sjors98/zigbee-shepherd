@@ -33,13 +33,13 @@
   "dependencies": {
     "areq": "^0.2.0",
     "busyman": "^0.3.0",
-    "cc-znp": "https://github.com/itsmepetrov/cc-znp#3c843db42f7895798f8acf391d6a180687d2ebc4",
+    "cc-znp": "itsmepetrov/cc-znp#3c843db42f7895798f8acf391d6a180687d2ebc4",
     "debug": "^2.6.3",
     "objectbox": "^0.3.0",
     "proving": "^0.1.0",
     "q": "^1.4.1",
-    "zcl-id": "^0.3.2",
-    "zcl-packet": "https://github.com/itsmepetrov/zcl-packet#1f96a05324a45f4423aedb1984965b4da40e9287",
+    "zcl-id": "itsmepetrov/zcl-id#d144b89a2b471266fb01ede9cce0f64afdbef825",
+    "zcl-packet": "itsmepetrov/zcl-packet#1f96a05324a45f4423aedb1984965b4da40e9287",
     "ziee": "^0.3.0",
     "zive": "^0.2.2",
     "zstack-constants": "^0.2.0"
