@@ -33,7 +33,7 @@
   "dependencies": {
     "areq": "^0.2.0",
     "busyman": "^0.3.0",
-    "cc-znp": "itsmepetrov/cc-znp#17b9c75dbd87e901ad45745d1e62c88592f8095d",
+    "cc-znp": "sjors98/cc-znp",
     "debug": "^2.6.3",
     "objectbox": "^0.3.0",
     "proving": "^0.1.0",
